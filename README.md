@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor FullStack | Analista de Sistemas | Entusiasta de Tecnologia
 
-Sou um profissional apaixonado por tecnologia e desenvolvimento de software, atualmente concluindo minha graduação em **Análise e Desenvolvimento de Sistemas**. Além disso, finalizei o curso complementar pelo **Senai de Programador FullStack**, ampliando minhas habilidades para criar soluções eficientes e inovadoras.
+Sou um profissional apaixonado por tecnologia e desenvolvimento de software, graduado em **Análise e Desenvolvimento de Sistemas**. Além disso, finalizei o curso complementar pelo Senai de **Programador FullStack**, ampliando minhas habilidades para criar soluções eficientes e inovadoras, atualmente estou cursando Pós-Graduação em **Ciência de Dados e Machine Learning**, aprofundando minhas habilidades em análise de dados, modelagem preditiva e soluções inteligentes orientadas por IA.
 
 ---
 
@@ -30,10 +30,14 @@ Sou um profissional apaixonado por tecnologia e desenvolvimento de software, atu
 - Perícia Forense Computacional 🕵️‍♂️
 - Matemática Financeira 📈
 - Metodologias Ágeis (Scrum, Kanban) 🔄
+- Cibersegurança e Crimes Digitais 🕵‍♂️
+- Inteligência Artificial 🧠 
 
 ---
 
 ## 🎓 Certificações
+🎓 Certificações
+
 - **Python** ✅
 - **Power BI** ✅
 - **Computação em Nuvem** ✅
@@ -41,7 +45,12 @@ Sou um profissional apaixonado por tecnologia e desenvolvimento de software, atu
 - **Perícia Forense Computacional** ✅
 - **Matemática Financeira** ✅
 - **Blockchain aplicada na Administração Pública** ✅
-
+- **Programador FullStack** ✅
+- **Cibersegurança e Crimes Digitais** ✅
+- **Introdução à Banco de Dados** ✅
+- **Introdução ao SQL** ✅
+- **Inteligência Artificial** ✅
+  
 ---
 
 ## 📫 Como me encontrar?
